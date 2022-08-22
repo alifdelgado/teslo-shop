@@ -20,16 +20,16 @@ or
 docker compose up -d
 ```
 
-5. Execute the seed
-
-```bash
-http://localhost:3000/api/seed
-```
-
-6. Start the project:
+5. Start the project:
 
 ```bash
 # npm run start:dev
 or
 # yarn start:dev
+```
+
+6. Execute the seed
+
+```bash
+http://localhost:3000/api/seed
 ```
