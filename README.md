@@ -20,13 +20,13 @@ or
 docker compose up -d
 ```
 
-6. Execute the seed
+5. Execute the seed
 
 ```bash
 http://localhost:3000/api/seed
 ```
 
-7. Start the project:
+6. Start the project:
 
 ```bash
 # npm run start:dev
