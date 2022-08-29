@@ -14,7 +14,7 @@ import { ApiProperty } from '@nestjs/swagger';
 @Entity({ name: 'products' })
 export class Product {
   @ApiProperty({
-    example: '',
+    example: '4b3b7bf9-589b-4ef3-899a-7aaed9274db2',
     description: 'Product ID',
     uniqueItems: true,
   })
